@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+}
+
+.navs {
+    width: 360px;
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.navs span {
+    flex: 1;
+    border: 1px solid #eee;
+}
+
+.table-list {
+    width: 360px;
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #eee;
+}
+
+.table-list span {
+    flex: 1;
+}
+
+.ok {
+    text-decoration: line-through;
+}
